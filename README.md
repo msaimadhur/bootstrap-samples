@@ -1,6 +1,6 @@
 # bootstrap-samples
 
-# 1. Objectives
+# 1.1 Objectives
 
 · Identify the applications and benefits of Bootstrap
 
@@ -26,7 +26,7 @@ Health tracking application hTrack requires a login web page. The left hand side
 
 Include navigation bar for hTrack login page.
 
-# Objectives
+# 1.2 Objectives
 
 · Demonstrate creation of navigation bar items
 
@@ -100,9 +100,9 @@ Include home icon adjacent to “Home” navigation item using Google Material I
 
 # Listing Items
 
-Display list of events similar to the layout using List Group component in Bootstrap.
+Display list of events using List Group component in Bootstrap.
 
-# Objectives
+# 2.1 Objectives
 
 · Demonstrate displaying a card with image, title and body
 
@@ -132,7 +132,7 @@ A product in hTrack application needs to be displayed using Card component. Use 
 
 Display multiple products. Each row will have four products displayed. In mobile devices there will be only one product displayed in a row. For images get the image links from unsplash.com.
 
-# Objectives
+# 2.2 Objectives
 
 · Demonstrate using third party date picker in web page
 
