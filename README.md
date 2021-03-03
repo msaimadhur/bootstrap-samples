@@ -18,7 +18,7 @@ o Grid System, 12 columns, devices and corresponding prefix of bootstrap class, 
 
 o navbar, navbar-expand-lg, navbar-dark, bg-dark, navbar-brand
 
-# Login Page Layout for hTrack Application
+## Login Page Layout for hTrack Application
 
 Health tracking application hTrack requires a login web page. The left hand side of the application displays the features and benefits of the online application. Right hand side of the web page displays login form. For the sake of simplicity, the login form details are not included.
 
