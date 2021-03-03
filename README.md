@@ -22,7 +22,7 @@ o navbar, navbar-expand-lg, navbar-dark, bg-dark, navbar-brand
 
 Health tracking application hTrack requires a login web page. The left hand side of the application displays the features and benefits of the online application. Right hand side of the web page displays login form. For the sake of simplicity, the login form details are not included.
 
-# Navigation Bar for hTrack
+## Navigation Bar for hTrack
 
 Include navigation bar for hTrack login page.
 
@@ -66,15 +66,15 @@ o Google Material Icon, Content Delivery Network (CDN), include icons in web pag
 
 o list-group, list-group-item
 
-# Navigation Bar Items for hTrack
+## Navigation Bar Items for hTrack
 
 Include navigation bar items in the navigation bar created for hTrack login page.
 
-# Hamburger menu for mobile devices 
+## Hamburger menu for mobile devices 
 
 The navigation menu items displayed in two lines. Consider a situation where there are more navigation items, which will make the display of navigation items clumsy. In mobile devices, the navigation items should collapse within a hamburger menu. Clicking on the hamburger menu should display the menu items. Change the previous HTML page completed to display hamburger menu in mobile devices.
 
-# Changing styles directly in browser using Chrome Developer Tools
+## Changing styles directly in browser using Chrome Developer Tools
 
 Change the style of "Benefit" heading in hTrack application using Chrome Developer Tools using the steps specified below:
 
@@ -90,15 +90,15 @@ Change the style of "Benefit" heading in hTrack application using Chrome Develop
 
 · Change the color of “Benefit” heading to blue color
 
-# Create a badge for displaying rating
+## Create a badge for displaying rating
 
 There is a need to display the rating of a product
 
-# Create icons for navigation item
+## Create icons for navigation item
 
 Include home icon adjacent to “Home” navigation item using Google Material Icon.
 
-# Listing Items
+## Listing Items
 
 Display list of events using List Group component in Bootstrap.
 
@@ -112,23 +112,23 @@ o card, card-title, card-body, card-text, change mouse cursor on hovering an ico
 
 o Display a list of cards using grid system and thus enabling RWD
 
-# Design rating display for a product
+## Design rating display for a product
 
 For displaying a product in hTrack application, the product rating needs to be displayed. For displaying star, use the Google Material Icon.
 
-# Design display of Price for a product
+## Design display of Price for a product
 
 For displaying a product in hTrack application, the product price needs to be displayed. For displaying offer image, use the Google Material Icon
 
-# Design Add to Cart and Favorite for a product
+## Design Add to Cart and Favorite for a product
 
 For displaying a product in hTrack application, each product needs to be displayed with Add to Cart and Add to Favorite options. For displaying heart symbol, use the Google Material Icon. On hovering over the “heart”, the mouse pointer should be displayed in red and the mouse cursor needs to be changed as pointing hand.
 
-# Displaying a Product using Card
+## Displaying a Product using Card
 
 A product in hTrack application needs to be displayed using Card component. Use the various components built in the previous exercises to build this layout. Get the image from https://unsplash.com/ , which is a free stock image site. Search for keyword "product" and the below product can be found. NOTE: It is recommended not to download the file. Get the image URL from unsplash.com and include it in the src attribute of img tag.
 
-# Display multiple Products using Cards
+## Display multiple Products using Cards
 
 Display multiple products. Each row will have four products displayed. In mobile devices there will be only one product displayed in a row. For images get the image links from unsplash.com.
 
@@ -146,14 +146,14 @@ o Develop form with textbox, password, drop down, date using gijgo, radio button
 
 o Separate CSS file for customization, overriding the styles of Bootstrap
 
-# Using Third Party Library for Date 
+## Using Third Party Library for Date 
 
 Create a text field for capturing date using a third party JavaScript library called Gijgo.
 
-# Design form to edit employee details
+## Design form to edit employee details
 
 To capture employee details create a form.
 
-# Customize Bootstrap Styles 
+## Customize Bootstrap Styles 
 
 For a new application to be developed the default primary buttons is expected to be in green color with sharp edges. Achieve this by defining a new CSS file overriding the .btn and .btn-primary styles.
